@@ -1,0 +1,260 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+header{
+
+width: 90%;
+
+margin: auto;
+
+display: flex;
+
+justify-content: space-between;
+
+padding-top: 50px;
+
+padding-bottom: 50px;
+}
+.logo{
+
+width: 20%;
+
+justify-content: left;
+}
+.menu{
+
+width: 50%;
+
+font-size: 18px;
+}
+.menu ul{
+
+list-style: none;
+
+display: flex;
+
+justify-content: end;
+}
+.menu ul li{
+}
+.menu ul li a{
+
+color: black;
+
+text-decoration: none;
+
+margin-left: 60px;
+}
+.banner{
+    
+width: 90%;
+    
+margin: auto;
+}
+.banner img{
+    width: 100%;
+}
+.PHOTODIARY{
+
+width: 80%;
+
+margin: auto;
+
+padding: 60PX 0;
+}
+.PHOTODIARY h5{
+    
+color: #d9d6cf;
+    
+font-size: 15px;
+}
+.PHOTODIARY h1{
+    
+color: #626262;
+    
+font-size: 30px;
+    
+margin: 25px 0;
+}
+.PHOTODIARY h4{
+    
+color: #d9d6cf;
+    
+font-size: 15px;
+}
+.PHOTODIARY p{
+    
+color: #626262;
+    
+font-size: 14px;
+    
+text-align: justify;
+    
+margin: 30PX 0;
+    
+line-height: 20px;
+}
+.feature{
+
+display: flex;
+
+width: 80%;
+
+margin: auto;
+
+justify-content: space-between;
+
+flex-wrap: wrap;
+
+margin-top: 70px;
+}
+.item{
+
+width: 48%;
+
+margin-top: 60px;
+}
+.item h5{
+    
+color: #d9d6cf;
+    
+font-size: 15px;
+    
+margin-top: 20px;
+}
+.item h1{
+    
+color: #626262;
+    
+font-size: 30px;
+    
+margin: 25px 0;
+}
+.item p{
+    
+color: #626262;
+    
+font-size: 14px;
+    
+text-align: justify;
+    
+margin: 30PX 0;
+    
+line-height: 20px;
+}
+.item img{
+    
+width: 100%;
+}
+.newslatter{
+
+background: #f0f0f0;
+
+padding: 70px 0;
+
+margin-top: 70px;
+}
+.content{
+
+text-align: center;
+
+width: 30%;
+
+margin: auto;
+}
+.content h1{
+
+color: #626262;
+}
+.content input{
+
+border-bottom: 1px solid #626262;
+
+width: 60%;
+
+margin-top: 40px;
+
+padding: 5px;
+}
+.Loadmore{
+
+padding: 100px 0;
+text-align: center;
+}
+.Loadmore button{
+    
+padding: 15px 30px;
+    
+color: #626262;
+    
+text-transform: capitalize;
+}
+.Loadmore button a{
+
+}
+footer{
+
+background: #f0f0f0;
+
+width: 100%;
+
+height: 70px;
+
+padding: 20px;
+}
+.footer_wrapper{
+
+width: 80%;
+
+margin: auto;
+
+display: flex;
+
+justify-content: space-between;
+}
+.Terms{
+
+}
+.Terms ul{
+    
+list-style: none;
+    
+display: flex;
+}
+.Terms ul li{
+    
+color: #626262;
+    
+text-transform: uppercase;
+    
+margin-top: 20px;
+    
+margin-right: 50px;
+}
+.Terms ul li a{
+    text-decoration: none;
+    
+}
+.socail{
+}
+.socail ul{
+
+color: #626262;
+
+margin-top: 20px;
+
+display: flex;
+}
+.socail ul li{
+
+margin-right: 20px;
+
+list-style: none;
+}
+.socail ul li a{
+
+text-decoration: none;
+
+margin-left: 20px;
+}
